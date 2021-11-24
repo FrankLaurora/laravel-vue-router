@@ -1,0 +1,24 @@
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}html, body, .full_height {
+  height: 100%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+main {
+  background-color: #b0f0ea;
+  color: #021b33;
+  height: calc(100% - 10rem);
+  overflow-y: auto;
+}
